@@ -1,0 +1,10 @@
+{
+  "name": "SpeakSmart AI — Your Personal Communication Coach",
+  "description": "Interactive AI communication coach for college students to master spoken English fluency, grammar, vocabulary, role-play, public speaking, and GD.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
